@@ -14,6 +14,7 @@ var DefaultRepos = []string{
 	"https://dl.google.com/dl/android/maven2",
 	"https://plugins.gradle.org/m2",
 	"https://jitpack.io",
+	"https://raw.github.com/abdularis/libwebrtc-android/repo",
 }
 
 type Result struct {
